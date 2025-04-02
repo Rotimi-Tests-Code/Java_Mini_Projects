@@ -5,11 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-<<<<<<< HEAD
     <artifactId>JAVA_PC_3</artifactId>
-=======
-    <artifactId>JAVA_FOOTBALL_TOURNAMENT</artifactId>
->>>>>>> 71e57e512c5543f576c889b03074dcc7b28e0430
     <version>1.0-SNAPSHOT</version>
 
     <properties>
